@@ -1,4 +1,4 @@
-# Decistion Tree Implementation
+# Decision Tree Implementation
 
 This assignment aimed at finding an efficient C++ implementation of an ensemble of decision tree learners
 with high accuracy and low runtime.
